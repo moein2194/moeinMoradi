@@ -1,0 +1,111 @@
+@font-face {
+    font-family: 'Open Sans';
+    src: url('font/OpenSans-SemiBoldItalic.eot');
+    src: url('font/OpenSans-SemiBoldItalic.eot?#iefix') format('embedded-opentype'),
+    url('font/OpenSans-SemiBoldItalic.woff2') format('woff2'),
+    url('font/OpenSans-SemiBoldItalic.woff') format('woff'),
+    url('font/OpenSans-SemiBoldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+.container{
+
+    margin: auto;
+    padding: 2.5rem;
+}
+*{
+    font-family: 'Open Sans';
+    color: rgb(48, 44, 44);
+    line-height: 1rem ;
+    /* padding: 0;
+    margin: 0; */
+}
+a{
+    text-decoration: none;
+}
+#name{
+    text-align: center;
+    font-size: 2rem;
+    font-weight: bold;
+    padding: .5rem;
+}
+.contact{
+    font-size: .8rem;
+    border-right: 1px solid #333;
+    padding-right: .3rem;  
+    padding-left: .3rem;  
+}
+.cb_none{
+    border: none;
+}
+.contactBox{
+    text-align: center;
+
+}
+.bigTitle{
+    margin: 0;
+}
+p{
+    margin: 0;
+    padding: 0;
+}
+.experience{
+    padding-top:.4rem  ;
+    padding-left: .5rem;
+    border-top: 1PX solid #333;
+}
+.LEADERSHIP{
+    padding-top:.4rem  ;
+    padding-left: .5rem;
+    border-top: 1PX solid #333;
+    
+}
+.EDUCATION{
+    padding-top:.4rem  ;
+        padding-left: .5rem;
+        border-top: 1PX solid #333;
+
+}
+h3{
+    padding-top: .3rem;
+    padding-bottom: .3rem;
+}
+.date{
+    display: flex;
+    justify-content: space-between;
+    padding: 0;
+    margin: 0;
+}
+ul{
+    font-size: .8rem;
+}
+.etdMore{
+    font-size: .8rem;
+}
+.jobName{
+    color: #555;
+    padding: 0;
+    margin: 0;
+    margin-top: .4rem;
+}
+.ADDITIONAL{
+    padding-top:.4rem  ;
+    padding-left: .5rem;
+    border-top: 1PX solid #333;
+}
+.title{
+    font-weight: bold;
+    
+}
+.boxTitle{
+    padding-bottom: .5rem;
+}
+.comment{
+    font-size: .8rem;
+    color: rgb(43, 43, 43);
+}
+.etd{
+    padding: 0;
+    margin: 0;
+}
